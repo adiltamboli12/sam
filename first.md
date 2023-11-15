@@ -9,7 +9,7 @@ sentence = "I hope you are enjoying 30 days of Python Challenge"
 print(sentence)
 ```
 # Python Adavance DataType
-
+### Here we learn datatype of python parallerly so we get a clear understarnding of why we required each datatype and how we can use them in progects
 ```py
 #declare a list
 a=[]
