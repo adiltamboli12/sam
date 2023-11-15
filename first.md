@@ -8,7 +8,7 @@ print(len(greeting))        # 13
 sentence = "I hope you are enjoying 30 days of Python Challenge"
 print(sentence)
 ```
-#Now we learn list tuple dictionarioes set so we don't get confuse
+Now we learn list tuple dictionarioes set so we don't get confuse
 
 ```py
 #declare a list
