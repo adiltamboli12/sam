@@ -15,5 +15,12 @@ print(sentence)
 a=[]
 #store the city name in list
 city=['lonikand','wagholi','game']
+```
 
+```py
+#declare a tuples
+a=()
+
+#store the mobile no in it.
+mobile_no=[9881049535,7709190442,7720801728]
 ```
